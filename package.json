@@ -1,0 +1,19 @@
+{
+  "name": "meteor-client",
+  "version": "1.0.0",
+  "description": "Meteor Client Side for Fixonclick Projects",
+  "main": "meteor-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansaries/meteor-client.git"
+  },
+  "author": "Arslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansaries/meteor-client/issues"
+  },
+  "homepage": "https://github.com/ansaries/meteor-client#readme"
+}
