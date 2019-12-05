@@ -8,7 +8,7 @@ npm install
 
 
 Include following script in your index.html.
-'''
+```
 <script> 
   function() {      
         var url= 'https://www.YourProductionMeteorServerUrl.com';
@@ -31,7 +31,7 @@ Include following script in your index.html.
         };        
   }();
 </script>
-'''
+```
 
 Do not forget to change the urls.
 
